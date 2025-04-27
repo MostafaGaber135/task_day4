@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/images/select location screen.jpg" alt="Screen One" width="300"/>
+  <img src="assets/images/home screen.jpg" alt="Screen Two" width="300"/>
+ 
